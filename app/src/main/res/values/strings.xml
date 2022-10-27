@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Greetings - LC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_language">Select Language</string>
+    <string name="hello">Hello!</string>
+    <string name="bonjour">Bonjour!</string>
+    <string name="ciao">Ciao!</string>
+
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>French</item>
+        <item>Italian</item>
+    </string-array>
+
+</resources>
